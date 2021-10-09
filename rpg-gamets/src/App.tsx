@@ -37,6 +37,10 @@ const App = () => {
       <C.Map>
         <Character x={char.x} y={char.y} side={char.side} />
       </C.Map>
+      <button onClick={()=>char.moveLeft()}>Left</button>
+      <button onClick={()=>char.moveRight()}>Right</button>
+      <button onClick={()=>char.moveDown()}>Down</button>
+      <button onClick={()=>char.moveUp()}>Up</button>
     </C.Container>
   );
 }
