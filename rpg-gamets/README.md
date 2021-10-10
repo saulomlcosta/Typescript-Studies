@@ -3,7 +3,8 @@ RPG Game made with Typescript
 </h1>
 
 <p align="center">RPG Game for study purposes.</p>
-<p align="center">Enjoy <a href="https://rpg-gamets.netlify.app/">it!</a>.</p>
+<p align="center">Enjoy in here! 💙</a>.</p>
+<p align="center">https://rpg-gamets.netlify.app/</p>
 
 <hr>
 
