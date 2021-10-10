@@ -6,6 +6,9 @@ RPG Game made with Typescript
 <p align="center">Enjoy in here! 💙</a>.</p>
 <p align="center">https://rpg-gamets.netlify.app/</p>
 
+![rpgGameGif](https://user-images.githubusercontent.com/79532045/136676848-4889c4d5-2cff-4cae-a17d-88ce044ac954.gif)
+
+
 <hr>
 
 ## Participants
