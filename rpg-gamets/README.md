@@ -43,7 +43,7 @@ After merging your receipt request to done, you can delete a branch from yours.
 
 Made with ♥ by Saulo Costa :wave: [Get in touch!](https://www.linkedin.com/in/saulocosta10/)
 
-```
+
 
 
 
