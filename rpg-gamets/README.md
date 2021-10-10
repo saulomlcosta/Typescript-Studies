@@ -5,12 +5,8 @@
 
 </p>
 
-<p align="center">
-  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Usage">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>
+<p align="center">Enjoy it!</p>
+<p align="center">https://rpg-gamets.netlify.app/</p>
 
 ## :video_camera: Preview
 ![rpgGameGif](https://user-images.githubusercontent.com/79532045/136676848-4889c4d5-2cff-4cae-a17d-88ce044ac954.gif)
