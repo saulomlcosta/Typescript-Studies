@@ -29,7 +29,7 @@ From your command line:
 
 1. Run `npm install` or `yarn install`.<br />
 2. Run `yarn start` and access `http://localhost:3000`.<br />
-```
+
 
 ## 🤔 How to contribute
 
@@ -42,5 +42,8 @@ After merging your receipt request to done, you can delete a branch from yours.
 
 
 Made with ♥ by Saulo Costa :wave: [Get in touch!](https://www.linkedin.com/in/saulocosta10/)
+
+```
+
 
 
